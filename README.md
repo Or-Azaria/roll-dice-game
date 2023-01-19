@@ -21,3 +21,4 @@ This project is built using only plain vanilla JavaScript, HTML and CSS.
 # Contributing
 If you're interested in contributing to this project, please feel free to create a pull request. Any contributions, whether big or small, are always welcome!
 
+Here is the website: https://project-of-dice.netlify.app/
