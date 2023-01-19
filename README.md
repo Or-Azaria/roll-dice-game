@@ -8,7 +8,7 @@ To run this project locally, you will need to:
 * Open the index.html file in your browser
 * Start the game by clicking on the "Roll Dice" button
 * Play the game by taking turns rolling the dice and collecting points
-* The first player to reach 10 points wins the game.
+* The first player to reach 30 points wins the game.
 # Features
 * Two-player game
 * Roll dice using JavaScript math functions
